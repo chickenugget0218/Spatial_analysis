@@ -1,14 +1,15 @@
-# Spatial_analysis
+# :earth_asia: Spatial_analysis
 
-- python으로 하는 공간분석
+- python 공간분석 관련 공부한 내용을 모아두었습니다.
 
 
 <br/>
 <br/>
 
-## 폴더 구조
+## :clipboard: 폴더 구조
 
-- mapogu_one
+### :open_file_folder: mapogu_one
+<br/>
 
 `choropleth.ipynb` :마포구 1인가구 분포를 행정동별로 시각화
 
